@@ -99,10 +99,6 @@ var mouse = {
 var maxRadius = 40; 
 //var minRadius = 2;
 var color = [
-    "#ffaa33",
-    "#ar44js",
-    "#54sa54",
-    "#789524",
     'E6015F',
     "red",
     "blue",
